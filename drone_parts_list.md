@@ -2,7 +2,7 @@
 
 ## Build Examples
 
-![3D Printed Drone Frame Example](images/drone_frame_example.jpg)
+![3D Printed Drone Frame Example](images/completed_drone_example.png)
 *Example of a 3D printed drone frame with electronics mounting in progress. Note the purple frame color and XT30 connector setup.*
 
 ## Core Components
